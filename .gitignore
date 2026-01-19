@@ -25,7 +25,5 @@ ocr_engine/
 *.log
 OCR/publish/
 *.exe
-OCR/publish/
-*.exe
-OCR/publish/
-*.exe
+*.dll
+*.pdb
