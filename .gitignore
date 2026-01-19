@@ -2,10 +2,6 @@
 [Bb]in/
 [Oo]bj/
 
-# Publish Output (Çıktı klasörleri)
-publish/
-OCR/publish/
-
 # Visual Studio / VS Code configuration
 .vs/
 .vscode/
