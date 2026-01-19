@@ -1,0 +1,29 @@
+# Build Folders (Derleme klasörleri)
+[Bb]in/
+[Oo]bj/
+
+# Publish Output (Çıktı klasörleri)
+publish/
+OCR/publish/
+
+# Visual Studio / VS Code configuration
+.vs/
+.vscode/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.cache
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Python / Virtual Env (Eski kalıntılar için)
+*.pyc
+__pycache__/
+.venv/
+ocr_engine/
+
+# Logs
+*.log
