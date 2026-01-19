@@ -23,7 +23,9 @@ ocr_engine/
 
 # Logs
 *.log
-OCR/publish/
-*.exe
+OCR/publish/*
 *.dll
 *.pdb
+
+# ama OCR.exe'yi serbest bırak
+!OCR/publish/OCR.exe
